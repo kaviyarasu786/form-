@@ -1,0 +1,54 @@
+.main_container
+{
+    border: 1px solid skyblue;
+    width: 600px;
+    height: 700px;
+    margin: auto;
+    background-color: darkcyan;
+}
+h2
+{
+    text-align: center;
+}
+h2:hover
+{
+    color: aqua;
+}
+input[type=text]
+{
+    width: 90%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: white;
+}
+label
+{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.but
+{
+    margin-left: 150px;
+}
+button
+{
+    width: 100px;
+    padding: 10px;
+    background-color: aqua;
+    margin: 20px;
+    color: brown;
+}
+button:hover
+{
+    cursor: pointer;
+    background-color: darkblue
+    
+}
+textarea
+{
+    width: 93%;
+    height: 70px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
